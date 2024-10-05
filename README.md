@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @limagirare
-- 👀 I’m interested in programation and robotic
-- 🌱 I’m currently learning python and c++(arduino)
-- 😄 Pronouns: limagirare on scratch, replit...
+# limagirare
+# sommaire
+- [qui suis-je?](#qui suis-je?)
+## qui suis-je?
 
-<!---
-limagirare/limagirare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## qu'est-ce que je fais?
+### langages de programation:
+![langages](https://skillicons.dev/icons?i=html,css,js,py,arduino,sketchup&theme=light)
+### les plateformes que j'utilise
+![programmation](https://skillicons.dev/icons?i=replit,github,vscode,canva&theme=light)
+(+scratch)
+### ce que je veux apprendre
+![ce que je veux apprendre](https://skillicons.dev/icons?i=java,unity,cpp,blender,&theme=light)
+
